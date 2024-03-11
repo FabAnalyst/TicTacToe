@@ -1,0 +1,27 @@
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\bin\Debug\TTT.exe.config
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\bin\Debug\TTT.exe
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\bin\Debug\TTT.pdb
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.csproj.AssemblyReference.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.csproj.SuggestedBindingRedirects.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.Form1.resources
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.Properties.Resources.resources
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.csproj.GenerateResource.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.csproj.CoreCompileInputs.cache
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.exe
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.pdb
+C:\Users\FABI54148\OneDrive - lhcgroup.com\Desktop\Programs\TTT\obj\Debug\TTT.About.resources
+C:\TOOLS\TTT\bin\Debug\TTT.exe.config
+C:\TOOLS\TTT\bin\Debug\TTT.exe.manifest
+C:\TOOLS\TTT\bin\Debug\TTT.application
+C:\TOOLS\TTT\bin\Debug\TTT.exe
+C:\TOOLS\TTT\bin\Debug\TTT.pdb
+C:\TOOLS\TTT\obj\Debug\TTT.csproj.AssemblyReference.cache
+C:\TOOLS\TTT\obj\Debug\TTT.About.resources
+C:\TOOLS\TTT\obj\Debug\TTT.Form1.resources
+C:\TOOLS\TTT\obj\Debug\TTT.Properties.Resources.resources
+C:\TOOLS\TTT\obj\Debug\TTT.csproj.GenerateResource.cache
+C:\TOOLS\TTT\obj\Debug\TTT.csproj.CoreCompileInputs.cache
+C:\TOOLS\TTT\obj\Debug\TTT.exe.manifest
+C:\TOOLS\TTT\obj\Debug\TTT.application
+C:\TOOLS\TTT\obj\Debug\TTT.exe
+C:\TOOLS\TTT\obj\Debug\TTT.pdb
